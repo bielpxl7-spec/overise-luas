@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2488290,
+    "name": "RUSHING BEAT X: Return Of Brawl Brothers",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488290/header.jpg?t=1788973474"
+  },
+  {
     "appid": 2467880,
     "name": "Fading Echo",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467880/e39036b077d6aee96e3e0b2e7929a55c4735957e/header.jpg?t=1789130006"
@@ -143,10 +148,5 @@
     "appid": 919640,
     "name": "Steel Division 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/919640/header.jpg?t=1783436469"
-  },
-  {
-    "appid": 3634190,
-    "name": "MXGP 26 - The Official Game",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634190/92e6ac99739bd346ec51d8a02744fe1b8b7e8386/header.jpg?t=1791538684"
   }
 ]
