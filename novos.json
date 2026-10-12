@@ -1,5 +1,10 @@
 [
   {
+    "appid": 574090,
+    "name": "MOTHERGUNSHIP",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574090/header.jpg?t=1781061638"
+  },
+  {
     "appid": 2129530,
     "name": "REANIMAL",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/4cdda917a0155258a2e7909d7869f35d8f980f96/header.jpg?t=1791191985"
@@ -77,7 +82,7 @@
   {
     "appid": 1245620,
     "name": "ELDEN RING",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/f0b19c231f86fa0e633ff88a1a63459443017728/header_alt_assets_3.jpg?t=1790290043"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1790290043"
   },
   {
     "appid": 1912410,
@@ -143,10 +148,5 @@
     "appid": 3214610,
     "name": "Cinderia",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/fa3f3ed3d74bc05798082d54eb03e35cfbb05173/header.jpg?t=1787153526"
-  },
-  {
-    "appid": 227300,
-    "name": "Euro Truck Simulator 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1791702263"
   }
 ]
