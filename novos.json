@@ -1,5 +1,15 @@
 [
   {
+    "appid": 2467880,
+    "name": "Fading Echo",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467880/e39036b077d6aee96e3e0b2e7929a55c4735957e/header.jpg?t=1789130006"
+  },
+  {
+    "appid": 3699590,
+    "name": "Well Dweller",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699590/49dd898fc6800fb34e599e23b7a015447f8209d5/header.jpg?t=1790314621"
+  },
+  {
     "appid": 2687400,
     "name": "GODBREAKERS",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687400/22c96009885b8a3598662b2531b553f51ed44442/header.jpg?t=1770803947"
@@ -138,15 +148,5 @@
     "appid": 3634190,
     "name": "MXGP 26 - The Official Game",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634190/92e6ac99739bd346ec51d8a02744fe1b8b7e8386/header.jpg?t=1791538684"
-  },
-  {
-    "appid": 37010,
-    "name": "Ninja Blade",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/37010/header.jpg?t=1648838491"
-  },
-  {
-    "appid": 1774580,
-    "name": "STAR WARS Jedi: Survivor™",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/header.jpg?t=1788257050"
   }
 ]
