@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3357960,
+    "name": "KuloNiku: Bowl Up!",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357960/160d8f3fb406c286b6a00e0c14fbd9ea4b9672ac/header_alt_assets_4.jpg?t=1791899807"
+  },
+  {
     "appid": 1374490,
     "name": "RuneScape: Dragonwilds",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745"
@@ -143,10 +148,5 @@
     "appid": 3493540,
     "name": "Transport Fever 3",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/d922d42fbf0d074d86223e68ec8e17e8685c3209/header_alt_assets_0_portuguese.jpg?t=1791359026"
-  },
-  {
-    "appid": 2288340,
-    "name": "ACE COMBAT 8: WINGS OF THEVE",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1791286652"
   }
 ]
