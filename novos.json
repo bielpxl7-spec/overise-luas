@@ -1,5 +1,10 @@
 [
   {
+    "appid": 4231820,
+    "name": "Castlevania: Belmont's Curse",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1792036946"
+  },
+  {
     "appid": 3479420,
     "name": "Okko The Exiled",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479420/header.jpg?t=1790777690"
@@ -12,7 +17,7 @@
   {
     "appid": 227300,
     "name": "Euro Truck Simulator 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1792004085"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/d3c44cfff95e8223687121b05c80e594d35c4c53/header_alt_assets_9.jpg?t=1792055307"
   },
   {
     "appid": 2523720,
@@ -92,7 +97,7 @@
   {
     "appid": 2887580,
     "name": "Active Matter",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/191801a8de4db48075ef195473a922391cb4c6de/header.jpg?t=1791892413"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/191801a8de4db48075ef195473a922391cb4c6de/header.jpg?t=1792058040"
   },
   {
     "appid": 1551980,
@@ -143,10 +148,5 @@
     "appid": 1604270,
     "name": "Broken Arrow",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604270/06d83195463188500a7e1fc140c5ca557c7cf2e5/header_alt_assets_5.jpg?t=1790684487"
-  },
-  {
-    "appid": 1245620,
-    "name": "ELDEN RING",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1790290043"
   }
 ]
