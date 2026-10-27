@@ -1,5 +1,15 @@
 [
   {
+    "appid": 1337520,
+    "name": "Risk of Rain Returns",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1337520/header.jpg?t=1782157557"
+  },
+  {
+    "appid": 248820,
+    "name": "Risk of Rain (2013)",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/header.jpg?t=1782157778"
+  },
+  {
     "appid": 3093400,
     "name": "Knightica",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093400/header.jpg?t=1776320660"
@@ -77,7 +87,7 @@
   {
     "appid": 2828710,
     "name": "Valor Mortis",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/e729c7f909db5c52ea780923d9b258517162866a/header.jpg?t=1792608118"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/e729c7f909db5c52ea780923d9b258517162866a/header.jpg?t=1793135279"
   },
   {
     "appid": 2698940,
@@ -138,15 +148,5 @@
     "appid": 1374490,
     "name": "RuneScape: Dragonwilds",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745"
-  },
-  {
-    "appid": 1092660,
-    "name": "Blair Witch",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092660/b16e513ad013f176e24a8d66f2c3ff55d1d9668a/header.jpg?t=1773944489"
-  },
-  {
-    "appid": 2488290,
-    "name": "RUSHING BEAT X: Return Of Brawl Brothers",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488290/header.jpg?t=1788973474"
   }
 ]
